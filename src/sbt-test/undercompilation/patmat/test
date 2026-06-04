@@ -1,0 +1,3 @@
+> run
+$ copy-file Customer2.scala-updated Customer2.scala
+> run
